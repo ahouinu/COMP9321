@@ -1,8 +1,8 @@
 from mongoengine import connect
 from models import *
 
-host_addr = 'mongodb://assn2:314628@ds157089.mlab.com:57089/comp9321_assn2'
-connect(db='comp9321_assn2', username='assn2', password='314628', host=host_addr)
+host_addr = 'SOME_URL'
+connect(db='DB_NAME', username='USER', password='PASSWD', host=host_addr)
 
 
 def save_city_and_record(city, record_list):
