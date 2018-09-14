@@ -5,7 +5,7 @@ Written by Tianpeng Chen z5176343, 29/04/18
 
 Usage:  % python view.py
 Note: Server runs on localhost:5000 by default
-Mongodb:'mongodb://assn2:314628@ds157089.mlab.com:57089/comp9321_assn2'
+Mongodb:'mongodb:url'
 '''
 
 
