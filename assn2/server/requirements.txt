@@ -1,0 +1,9 @@
+werkzeug
+pandas
+beautifulsoup4
+mongoengine
+itsdangerous
+flask
+flask_restful
+lxml
+xlrd
